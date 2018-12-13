@@ -1,4 +1,1 @@
 requests
-re
-threading
-os
